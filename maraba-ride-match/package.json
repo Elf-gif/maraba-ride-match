@@ -1,0 +1,14 @@
+{
+  "name": "maraba-ride-match",
+  "version": "1.0.0",
+  "description": "Automatic daily transport pairing for UITH nursing students on clinical posting",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
